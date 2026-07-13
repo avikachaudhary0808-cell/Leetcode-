@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Math
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0029-divide-two-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
