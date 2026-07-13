@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
