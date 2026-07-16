@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0042-trapping-rain-water) |
 ## Recursion
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
