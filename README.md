@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0053-maximum-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0043-multiply-strings) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
