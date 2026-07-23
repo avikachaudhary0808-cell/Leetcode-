@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0057-insert-interval) |
+| [0088-merge-sorted-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
 | ------- |
