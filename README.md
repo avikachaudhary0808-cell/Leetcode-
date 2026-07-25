@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sorting
 |  |
 | ------- |
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
