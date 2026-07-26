@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0032-longest-valid-parentheses) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0037-sudoku-solver) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0050-powx-n) |
