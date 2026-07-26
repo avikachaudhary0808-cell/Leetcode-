@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0013-roman-to-integer) |
