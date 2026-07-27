@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
