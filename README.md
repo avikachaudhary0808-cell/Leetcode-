@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0392-is-subsequence) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 ## Stack
 |  |
