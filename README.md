@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0134-gas-station) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0068-text-justification) |
 ## Divide and Conquer
 |  |
 | ------- |
