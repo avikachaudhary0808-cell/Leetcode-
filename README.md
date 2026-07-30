@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0076-minimum-window-substring) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0054-spiral-matrix) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0169-majority-element) |
