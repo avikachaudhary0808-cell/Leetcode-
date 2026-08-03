@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -318,5 +321,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
