@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0076-minimum-window-substring) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0289-game-of-life) |
 ## Divide and Conquer
