@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0189-rotate-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0191-number-of-1-bits) |
 ## Sliding Window
