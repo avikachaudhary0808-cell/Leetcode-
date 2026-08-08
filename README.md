@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 ## Binary Search
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0196-delete-duplicate-emails) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
