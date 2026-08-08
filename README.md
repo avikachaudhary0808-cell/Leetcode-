@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0071-simplify-path) |
+| [0145-binary-tree-postorder-traversal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0155-min-stack) |
 ## Binary Search
 |  |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0637-average-of-levels-in-binary-tree) |
