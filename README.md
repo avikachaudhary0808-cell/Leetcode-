@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Two Pointers
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0303-range-sum-query-immutable) |
 ## Trie
 |  |
 | ------- |
