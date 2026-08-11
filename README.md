@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0392-is-subsequence) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0052-n-queens-ii) |
+| [0257-binary-tree-paths](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
