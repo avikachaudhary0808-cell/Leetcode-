@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0696-count-binary-substrings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0696-count-binary-substrings) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0389-find-the-difference) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0455-assign-cookies) |
 ## Linked List
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0191-number-of-1-bits) |
+| [0389-find-the-difference](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sliding Window
 |  |
