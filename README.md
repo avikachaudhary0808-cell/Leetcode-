@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0367-valid-perfect-square) |
 ## Matrix
 |  |
 | ------- |
