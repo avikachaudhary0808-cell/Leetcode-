@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0696-count-binary-substrings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0696-count-binary-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0455-assign-cookies) |
+| [0696-count-binary-substrings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0696-count-binary-substrings) |
 ## Greedy
 |  |
 | ------- |
