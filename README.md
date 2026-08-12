@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0696-count-binary-substrings) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0455-assign-cookies) |
 ## Linked List
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Matrix
 |  |
 | ------- |
