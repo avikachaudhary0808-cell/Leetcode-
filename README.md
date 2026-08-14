@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0225-implement-stack-using-queues) |
+| [0844-backspace-string-compare](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0289-game-of-life) |
 | [0832-flipping-an-image](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0844-backspace-string-compare) |
 ## Divide and Conquer
 |  |
 | ------- |
