@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0709-to-lower-case) |
+| [0821-shortest-distance-to-a-character](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0821-shortest-distance-to-a-character](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 ## Greedy
 |  |
 | ------- |
