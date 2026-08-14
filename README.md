@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0541-reverse-string-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0709-to-lower-case) |
 ## Dynamic Programming
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0696-count-binary-substrings) |
 ## Greedy
 |  |
