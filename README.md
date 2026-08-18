@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0289-game-of-life) |
 | [0832-flipping-an-image](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0844-backspace-string-compare) |
@@ -484,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
