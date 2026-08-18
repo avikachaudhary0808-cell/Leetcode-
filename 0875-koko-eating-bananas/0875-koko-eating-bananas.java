@@ -3,7 +3,6 @@ class Solution {
         int left = 1;
         int right = 0;
 
-        // max pile find karo
         for (int p : piles) {
             right = Math.max(right, p);
         }
@@ -15,9 +14,9 @@ class Solution {
 
             if (canFinish(piles, h, mid)) {
                 ans = mid;
-                right = mid - 1; // try smaller speed
+                right = mid - 1;  speed
             } else {
-                left = mid + 1;  // increase speed
+                left = mid + 1;  
             }
         }
 
@@ -28,7 +27,7 @@ class Solution {
         long hours = 0;
 
         for (int pile : piles) {
-            hours += (pile + k - 1) / k; // ceil
+            hours += (pile + k - 1) / k; 
         }
 
         return hours <= h;
