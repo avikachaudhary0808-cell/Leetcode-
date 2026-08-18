@@ -1,0 +1,36 @@
+class Solution {
+    public int minEatingSpeed(int[] piles, int h) {
+        int left = 1;
+        int right = 0;
+
+        // max pile find karo
+        for (int p : piles) {
+            right = Math.max(right, p);
+        }
+
+        int ans = right;
+
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if (canFinish(piles, h, mid)) {
+                ans = mid;
+                right = mid - 1; // try smaller speed
+            } else {
+                left = mid + 1;  // increase speed
+            }
+        }
+
+        return ans;
+    }
+
+    private boolean canFinish(int[] piles, int h, int k) {
+        long hours = 0;
+
+        for (int pile : piles) {
+            hours += (pile + k - 1) / k; // ceil
+        }
+
+        return hours <= h;
+    }
+}
