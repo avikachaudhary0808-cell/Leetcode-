@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0278-first-bad-version) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0289-game-of-life) |
 | [0832-flipping-an-image](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0832-flipping-an-image) |
 ## Monotonic Stack
