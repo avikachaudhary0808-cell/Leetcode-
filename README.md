@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Two Pointers
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0888-fair-candy-swap](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0888-fair-candy-swap) |
 ## Math
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0888-fair-candy-swap](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0888-fair-candy-swap) |
 ## Linked List
 |  |
 | ------- |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Matrix
