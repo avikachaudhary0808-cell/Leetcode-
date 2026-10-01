@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0844-backspace-string-compare) |
 ## Binary Search
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Database
@@ -568,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0506-relative-ranks) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
