@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
