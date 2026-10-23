@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0796-rotate-string) |
 ## Union-Find
 |  |
 | ------- |
