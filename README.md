@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sorting
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0476-number-complement) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0832-flipping-an-image) |
 ## Sliding Window
 |  |
@@ -597,4 +599,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0173-binary-search-tree-iterator) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
