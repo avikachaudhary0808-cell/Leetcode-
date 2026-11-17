@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 ## Quicksort
 |  |
