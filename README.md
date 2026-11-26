@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0929-unique-email-addresses) |
+| [1859-sorting-the-sentence](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1859-sorting-the-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1859-sorting-the-sentence](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1859-sorting-the-sentence) |
 ## Linked List
 |  |
 | ------- |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0075-sort-colors) |
+| [1859-sorting-the-sentence](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1859-sorting-the-sentence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
