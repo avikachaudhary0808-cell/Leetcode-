@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0929-unique-email-addresses) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0929-unique-email-addresses) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
@@ -628,4 +630,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0705-design-hashset) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
