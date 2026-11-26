@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0844-backspace-string-compare) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0771-jewels-and-stones](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0929-unique-email-addresses) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1346-check-if-n-and-its-double-exist) |
