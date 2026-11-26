@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0929-unique-email-addresses) |
+| [1189-maximum-number-of-balloons](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 | [1859-sorting-the-sentence](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1859-sorting-the-sentence) |
 ## Dynamic Programming
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 ## Counting Sort
 |  |
 | ------- |
