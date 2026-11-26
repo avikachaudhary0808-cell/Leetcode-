@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0929-unique-email-addresses) |
 ## Dynamic Programming
