@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0821-shortest-distance-to-a-character](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0832-flipping-an-image) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0929-unique-email-addresses) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0705-design-hashset) |
 ## Backtracking
 |  |
 | ------- |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0705-design-hashset](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0705-design-hashset) |
 ## Randomized
 |  |
 | ------- |
@@ -620,4 +624,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/avikachaudhary0808-cell/Leetcode-/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
